@@ -1,0 +1,3 @@
+This is my very first project back when I was first year college, I was really motivated to make a game before and i started it with a 2d simple game and the result is this tictactoe game.
+
+All scripts and algorithms are mine and it's not copy paste from stackoverflow of somewhere. So you will notice that it's kinda unorganized.
